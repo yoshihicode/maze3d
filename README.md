@@ -74,7 +74,7 @@ cd maze3d
 go build -o maze3d main.go
 ./maze3d
 ```
-## References
+## 📚 References
 ### For maze generation
 - https://note.com/mahalo_/n/na0739a515a43
 - https://zenn.dev/megeton/articles/5b16208f5d9678
