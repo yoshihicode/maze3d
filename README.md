@@ -17,8 +17,8 @@ Maze 3D is a terminal-based 3D maze game written in Go.
 Download prebuilt binaries from the latest release:  
 👉 [Get the latest binaries](https://github.com/yoshihicode/maze3d/releases/latest)
 
-# 📦 Installation
-## 🐧 Linux
+## 📦 Installation
+### 🐧 Linux
 ```bash
 wget https://github.com/yoshihicode/maze3d/releases/latest/download/maze3d_linux_amd64.tar.gz
 tar -xzvf maze3d_linux_amd64.tar.gz
@@ -27,7 +27,7 @@ sudo mv maze3d /usr/local/bin/
 # Run
 maze3d
 ```
-## 🍎🍺  macOS / Homebrew
+### 🍎🍺  macOS / Homebrew
 ```bash
 brew tap yoshihicode/tap
 brew install maze3d
@@ -35,7 +35,7 @@ brew install maze3d
 # Run
 maze3d
 ```
-## 🪟 Windows
+### 🪟 Windows
 ```powershell
 Invoke-WebRequest -OutFile maze3d_windows_amd64.tar.gz https://github.com/yoshihicode/maze3d/releases/latest/download/maze3d_windows_amd64.tar.gz
 tar -xzvf maze3d_windows_amd64.tar.gz
